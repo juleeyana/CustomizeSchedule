@@ -78,7 +78,28 @@ body {
     background-color: white; 
     color: black; 
     font-family: "Times New Roman", Times, serif;
-    }
+
+    table{
+    background-color: white;
+}
+
+img {
+    filter: grayscale(100%);
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+td{
+    background-color: white;
+    color: black;
+}
+
+a{
+    filter: grayscale(100%);
+}
     }
     
     
