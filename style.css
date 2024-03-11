@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    color: black !important;
   }
   img{
     max-width: 200px;
